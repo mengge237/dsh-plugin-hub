@@ -1,0 +1,257 @@
+{
+  "incremental-decision-gateway-api.json": {
+    "size": 213065,
+    "mtime": "2026-09-27T11:28:00.626Z",
+    "sha256": "72f20e9c5333afda22ada50c287dbb50f4f01f3f7abeb76e135346be9e715224"
+  },
+  "incremental-decision-gateway-client.json": {
+    "size": 1624660,
+    "mtime": "2026-09-27T11:27:35.322Z",
+    "sha256": "d78f345096992786e6bc90e33415e2af9c41ffda913603f1f766fb95e020de7e"
+  },
+  "incremental-decision-gateway-config.json": {
+    "size": 1001016,
+    "mtime": "2026-09-27T11:28:09.903Z",
+    "sha256": "45b9158c7a668e23ed952d901a09132799520f386a98fcababa7ca5e5f382f61"
+  },
+  "incremental-decision-gateway-entry.json": {
+    "size": 441583,
+    "mtime": "2026-09-27T11:27:29.043Z",
+    "sha256": "23ed7476c1337aed8bb98c9ea8a54d41d1ab6b51752d7d97e59d8f6831694bae"
+  },
+  "incremental-decision-gateway-history.json": {
+    "size": 317522,
+    "mtime": "2026-09-27T11:28:05.478Z",
+    "sha256": "7598cfec2b7917a872e34798da47e9e0a7c55f10c335904bc31480c6c6b7a4cf"
+  },
+  "incremental-decision-gateway-store.json": {
+    "size": 138796,
+    "mtime": "2026-09-27T11:27:46.375Z",
+    "sha256": "13d2a234e7cfcdf73081be947637d2d5f1729ce8b0ee20cf99a8580ba53e172f"
+  },
+  "incremental-decision-gateway-tools.json": {
+    "size": 1291713,
+    "mtime": "2026-09-27T11:27:59.617Z",
+    "sha256": "1b8949e4284ed4fdc09edea46e55652496eb6f54edff6a90a405e051eca72bc1"
+  },
+  "incremental-decision-gateway-upgrade.json": {
+    "size": 96521,
+    "mtime": "2026-09-27T11:27:42.360Z",
+    "sha256": "0f575951364139cf4545bd5089faadac91212025ff6cc0ebc7b38f8553040c19"
+  },
+  "incremental-lan-proxy-ca.json": {
+    "size": 594978,
+    "mtime": "2026-09-27T11:27:43.406Z",
+    "sha256": "916abc3bcc55aa76acf9589f21d27c18ace4023a47ce710a93568209d5bb2cdc"
+  },
+  "incremental-lan-proxy-client.json": {
+    "size": 4328958,
+    "mtime": "2026-09-27T11:27:21.210Z",
+    "sha256": "a9ca11e35f179794699910097d45cd29aaa00b915c1ef6063534faf5a6a1b13a"
+  },
+  "incremental-lan-proxy-config.json": {
+    "size": 751541,
+    "mtime": "2026-09-27T11:28:01.753Z",
+    "sha256": "f252432ca55b448420eff1c6df2e18712f09197e5ed20f877e5a2fce112a3867"
+  },
+  "incremental-lan-proxy-entry.json": {
+    "size": 561184,
+    "mtime": "2026-09-27T11:27:37.335Z",
+    "sha256": "6c3edf985d8f1b5d56eab753c63305b2cb7bb331e01c4c4910f510b2c7a59908"
+  },
+  "incremental-lan-proxy-host-trust.json": {
+    "size": 293127,
+    "mtime": "2026-09-27T11:27:40.470Z",
+    "sha256": "39117ac865827a02e5bfcf4515e179d897cb9addf04522f5f2a99803dfb3da00"
+  },
+  "incremental-lan-proxy-migrate.json": {
+    "size": 454021,
+    "mtime": "2026-09-27T11:27:53.038Z",
+    "sha256": "71c79f6aa320da1ac1d4ee631cdccf846753533c0d13955763f43686e172d08a"
+  },
+  "incremental-lan-proxy-proxy.json": {
+    "size": 727248,
+    "mtime": "2026-09-27T11:27:23.432Z",
+    "sha256": "1fd866d4c4c20d115b9dc731c7f079fd193bbfaf911ded83240730d1721fc027"
+  },
+  "incremental-lan-proxy-shared.json": {
+    "size": 397499,
+    "mtime": "2026-09-27T11:27:36.332Z",
+    "sha256": "f20c609b8594685b053f54a3c9f5b50f50e7bd968389a693268eb9e5754b99aa"
+  },
+  "incremental-lan-proxy-tls.json": {
+    "size": 388496,
+    "mtime": "2026-09-27T11:27:22.252Z",
+    "sha256": "9da9713a115fcd67d12d687cf6e5b469adc39b6425c48bcd76260e853f8b7644"
+  },
+  "incremental-mcp-manager-client-panel.json": {
+    "size": 309577,
+    "mtime": "2026-09-27T11:28:11.822Z",
+    "sha256": "d6583051a70ce6272bedbeb873e2adafce2d343adc836e1d0bae38f1f49ceac8"
+  },
+  "incremental-mcp-manager-entry.json": {
+    "size": 2392742,
+    "mtime": "2026-09-27T11:27:28.022Z",
+    "sha256": "2146f7f07477c724cb09a682f0cf93201a53aeea35962dea3fd45a59c0105545"
+  },
+  "incremental-mcp-manager-manager.json": {
+    "size": 1735437,
+    "mtime": "2026-09-27T11:27:34.340Z",
+    "sha256": "a7d64239d33f2ae6932e1a35057087084b4c1ba0b863303140ac0c004ed78d44"
+  },
+  "incremental-mcp-manager-middleware.json": {
+    "size": 2596191,
+    "mtime": "2026-09-27T11:28:13.078Z",
+    "sha256": "b1e732e90e48869a7f4f10aa4e5c6acc1b5394258f14def313f2e2a25b1e9a4e"
+  },
+  "incremental-mcp-manager-routes.json": {
+    "size": 757038,
+    "mtime": "2026-09-27T11:27:25.818Z",
+    "sha256": "0b077309dd3557759013409ca97a6adfa875df05ee08e142e9a2a3f8209e5b9d"
+  },
+  "incremental-mcp-manager-runtime.json": {
+    "size": 3224669,
+    "mtime": "2026-09-27T11:27:52.035Z",
+    "sha256": "9bf3b046bb5a80b493042142a43cc37d02df381a301ae6adc316e316448b2253"
+  },
+  "incremental-mcp-manager-servers.json": {
+    "size": 1365337,
+    "mtime": "2026-09-27T11:27:55.356Z",
+    "sha256": "3d2510af6a86f1657513f93126bc30cea3f31015df2cf86bdea400fb604925ac"
+  },
+  "incremental-mcp-manager-supervisor.json": {
+    "size": 1520707,
+    "mtime": "2026-09-27T11:27:57.559Z",
+    "sha256": "be92c7a61542a8130f5d28cdc30485df91faae8624b2fdef650d36b1c4817f37"
+  },
+  "incremental-notifier-api.json": {
+    "size": 673142,
+    "mtime": "2026-09-27T11:27:47.484Z",
+    "sha256": "ebe1530a2bd1e21a6fca8e0b2eb7288d54d0b575300aab44fcd4890406571ebb"
+  },
+  "incremental-notifier-channels.json": {
+    "size": 2935353,
+    "mtime": "2026-09-27T11:28:08.929Z",
+    "sha256": "575b24c1118d2b09ae069794831e504fdf97ea2aed03a5b68cb79b45213389f9"
+  },
+  "incremental-notifier-client.json": {
+    "size": 1492123,
+    "mtime": "2026-09-27T11:27:30.071Z",
+    "sha256": "192690a72942cd743de678e9762427501fee4091ed8ce4a8312195d3a1d75bdc"
+  },
+  "incremental-notifier-config.json": {
+    "size": 1225035,
+    "mtime": "2026-09-27T11:27:41.509Z",
+    "sha256": "202accb7bb71a686c47eae44998c82b63299214ca8dd4331c1374a30c57cea52"
+  },
+  "incremental-notifier-events.json": {
+    "size": 527544,
+    "mtime": "2026-09-27T11:28:10.901Z",
+    "sha256": "07abb88a10991ad4336763f49f84de65328edade32b948360a52d5f161f6b2cc"
+  },
+  "incremental-notifier-pipeline.json": {
+    "size": 651644,
+    "mtime": "2026-09-27T11:27:54.170Z",
+    "sha256": "878ba22fee0365f838b796fbd1e30de8aea05d6f9a32a4dd643a314b08decac2"
+  },
+  "incremental-notifier-sdk.json": {
+    "size": 294191,
+    "mtime": "2026-09-27T11:27:26.756Z",
+    "sha256": "02337500fb6921279a4ef6c4855698b296b80f265257b06e2323244839b9ba9f"
+  },
+  "incremental-notifier-shared.json": {
+    "size": 840889,
+    "mtime": "2026-09-27T11:28:06.719Z",
+    "sha256": "31a19ddaa096573ffb0f4f3475f9129e98e77ee32a2b441240beb83313d33051"
+  },
+  "incremental-notifier-stores.json": {
+    "size": 401234,
+    "mtime": "2026-09-27T11:27:33.232Z",
+    "sha256": "cd64c35ae81a060b8aa3e2bc51d6d535a1e7d36d895d6552c6688065ae492c66"
+  },
+  "incremental-notifier-upgrade.json": {
+    "size": 694541,
+    "mtime": "2026-09-27T11:28:14.116Z",
+    "sha256": "a7e0315c6dd9d8f67685962e10f6b0156364d107684618febf831dbb10879c80"
+  },
+  "incremental-provider-usage-apply.json": {
+    "size": 373628,
+    "mtime": "2026-09-27T11:27:58.655Z",
+    "sha256": "e9d518ac688677287c1a01fcce750f4111c0b4d32f3f67cc92099d6d6e5abc7d"
+  },
+  "incremental-provider-usage-contracts.json": {
+    "size": 809243,
+    "mtime": "2026-09-27T11:27:56.471Z",
+    "sha256": "772d82c39506f61e25b6c2f3ffd2de36276be7172ba60f22efa5113931d1a4fb"
+  },
+  "incremental-provider-usage-entry.json": {
+    "size": 1105220,
+    "mtime": "2026-09-27T11:28:04.310Z",
+    "sha256": "cff11c3cf7795ce3efc34f7f90125593ce8f20f525faba68d9b54fcbe093601c"
+  },
+  "incremental-provider-usage-errsurf.json": {
+    "size": 174814,
+    "mtime": "2026-09-27T11:28:07.788Z",
+    "sha256": "1c2de5eff5f4a996681a5952bbb79f78d58567cf22162a2edf0d7931e7136fb5"
+  },
+  "incremental-provider-usage-pipeline-core.json": {
+    "size": 957042,
+    "mtime": "2026-09-27T11:27:45.413Z",
+    "sha256": "c1eb32f15388b52003cd24bf7e2124424a21a62f80dad1e251ba163a641ee167"
+  },
+  "incremental-provider-usage-pipeline-history.json": {
+    "size": 762353,
+    "mtime": "2026-09-27T11:27:24.568Z",
+    "sha256": "c761e54d5e4d0cc21f4daf15e6a3af7942f3d0971461d60d368d098c30fd1ea8"
+  },
+  "incremental-provider-usage-pipeline-view.json": {
+    "size": 1084524,
+    "mtime": "2026-09-27T11:27:38.438Z",
+    "sha256": "07c7df92f7cf0fe5c3450304b2f5ecd0e4f592eb327bc89cf42074fef0e5ff5d"
+  },
+  "incremental-provider-usage-registry.json": {
+    "size": 420589,
+    "mtime": "2026-09-27T11:27:50.859Z",
+    "sha256": "533e6036344573b3bbbb72f8a41cd5cc08ea974060a731268b0d3b3285c7b872"
+  },
+  "incremental-provider-usage-report-execute.json": {
+    "size": 2579238,
+    "mtime": "2026-09-27T11:27:49.717Z",
+    "sha256": "0e67d65a1640151cff9f77094fd6ded3635f1e056b8b905e07ddd606abdb1084"
+  },
+  "incremental-provider-usage-report-schedule.json": {
+    "size": 4158989,
+    "mtime": "2026-09-27T11:28:03.121Z",
+    "sha256": "47f1f7dcfb13d65472089d3b6ead390a2cf0510748f9e7fb78214d57c5eaee8c"
+  },
+  "incremental-provider-usage-routes.json": {
+    "size": 1249584,
+    "mtime": "2026-09-27T11:27:31.168Z",
+    "sha256": "de96042fd876f27e1b120af3454c2d198f305028567091eabdf4cb3683a08c44"
+  },
+  "incremental-provider-usage-sanitize.json": {
+    "size": 809762,
+    "mtime": "2026-09-27T11:27:44.387Z",
+    "sha256": "f30f9fb2fee20efad404ffd18960cae41bdb410d5882d03e62c929d6b4f4055e"
+  },
+  "incremental-provider-usage-trend-aggregate.json": {
+    "size": 1698929,
+    "mtime": "2026-09-27T11:27:20.038Z",
+    "sha256": "9126cc1246e418fc0f83ff5c501da5d1e1ead3ebac6793978dfd0b2eefb3331e"
+  },
+  "incremental-provider-usage-trend-collect.json": {
+    "size": 1425265,
+    "mtime": "2026-09-27T11:27:39.551Z",
+    "sha256": "981aa7368b379250bdf2d59b255381a40ef5037e52d48bbf18966b6643b6ccf1"
+  },
+  "incremental-provider-usage-upgrade.json": {
+    "size": 448377,
+    "mtime": "2026-09-27T11:27:32.304Z",
+    "sha256": "77f43aa4c0fe7c51998346eaeb9f11dc28645743bf5b22a3854891230cafb4d9"
+  },
+  "incremental-worktree-sidebar.json": {
+    "size": 2358134,
+    "mtime": "2026-09-27T11:27:48.649Z",
+    "sha256": "2750e57765cad2eb70e5e932740ed39a5d424312fabedeec81e0ab15521ae00e"
+  }
+}
